@@ -2233,6 +2233,10 @@ display: block;
 color: #01669a !important;
 }
 
+a {
+color: #01669a !important;
+}
+
 h2.pane-title {
   font-weight: normal;
 font-family: "gazebo-cond-light-font","HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
