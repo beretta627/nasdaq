@@ -2241,7 +2241,7 @@ padding-bottom: 5px;
 border-bottom: 1px solid #eee; 
 }
 
-#panels-ipe-regionid-column2 section {
+.harris-column2-inner section {
   background: #EDEDED;
   border-radius: 5px;
   padding: 5px;
