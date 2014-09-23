@@ -2233,6 +2233,11 @@ display: block;
 color: #01669a !important;
 }
 
+.harris-column1 li.leaf a {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
 a {
 color: #01669a !important;
 }
