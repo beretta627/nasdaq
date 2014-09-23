@@ -2201,3 +2201,46 @@ h6 {
   visibility: visible;
   opacity: 1;
 }
+
+h1 {
+  display: none;
+}
+
+.page {
+  padding-top: 0;
+}
+
+ul li.leaf {
+  list-style-type: none;
+  list-style-image: none;
+}
+
+ul li.expanded {
+  list-style-image: none;
+  list-style-type: none;
+}
+
+#gaz-content a {
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 13px;
+font-weight: normal;
+line-height: 1.2;
+padding: 14px 8px;
+margin: 0;
+text-decoration: none;
+display: block;
+color: #01669a;
+}
+
+h2.pane-title {
+  font-weight: normal;
+font-family: "gazebo-cond-light-font","HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+font-size: 200%;
+padding-bottom: 5px;
+border-bottom: 1px solid #eee; 
+}
+
+#panels-ipe-regionid-column2 section {
+  background: #aaa;
+  border-radius: 5px;
+}
