@@ -2263,3 +2263,7 @@ border-bottom: 1px solid #eee;
 header {
   display: none;
 }
+
+.not-logged-in #block-acsf-openid-login {
+  display: none;
+}
