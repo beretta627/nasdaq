@@ -2221,7 +2221,7 @@ ul li.expanded {
   list-style-type: none;
 }
 
-#gaz-content a {
+.harris-column1 a {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 font-size: 13px;
 font-weight: normal;
@@ -2230,7 +2230,7 @@ padding: 14px 8px;
 margin: 0;
 text-decoration: none;
 display: block;
-color: #01669a !important;;
+color: #01669a !important;
 }
 
 h2.pane-title {
