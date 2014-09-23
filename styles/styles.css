@@ -1496,6 +1496,7 @@ div.error {
 
 .page-title {
   font-size: 3em;
+  display: none;
 }
 
 .content-container {
