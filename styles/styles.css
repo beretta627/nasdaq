@@ -2253,7 +2253,11 @@ border-bottom: 1px solid #eee;
 .harris-column2-inner section {
   background: #EDEDED;
   border-radius: 5px;
-  padding: 5px;
+  padding: 10px;
+}
+
+.harris-column2-inner section h2 {
+  font-size: 150%;
 }
 
 header {
