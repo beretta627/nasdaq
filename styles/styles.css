@@ -2230,7 +2230,7 @@ padding: 14px 8px;
 margin: 0;
 text-decoration: none;
 display: block;
-color: #01669a;
+color: #01669a !important;;
 }
 
 h2.pane-title {
@@ -2242,6 +2242,11 @@ border-bottom: 1px solid #eee;
 }
 
 #panels-ipe-regionid-column2 section {
-  background: #aaa;
+  background: #DEDEDE;
   border-radius: 5px;
+  padding: 5px;
+}
+
+header {
+  display: none;
 }
