@@ -1499,6 +1499,10 @@ div.error {
   display: none;
 }
 
+.not-front .page-title {
+	display: block;
+}
+
 .content-container {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
